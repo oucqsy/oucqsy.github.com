@@ -1,2 +1,2 @@
-oucqsy.github.com
+oucqsy.github.io
 =================

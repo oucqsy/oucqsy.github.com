@@ -1,4 +1,4 @@
 markdown: rdiscount
 pygments: true
-baseurl: http://www.scylla.me
+baseurl: http://oucqsy.github.io
 permalink: /:year/:month/:day/:title
